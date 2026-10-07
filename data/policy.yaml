@@ -1,0 +1,27 @@
+gst_percentage: 18
+gst_note: PLACEHOLDER – verify against actual GST rates
+volume_discount_tiers:
+- min_boxes: 10
+  discount_percent: 2
+- min_boxes: 50
+  discount_percent: 5
+- min_boxes: 100
+  discount_percent: 8
+customers:
+- name: Sharma General Store
+  credit_limit_inr: 500000
+- name: Metro Retail Chain
+  credit_limit_inr: 2000000
+- name: Kiran Super Mart
+  credit_limit_inr: 800000
+return_rules:
+- Damaged goods may be returned within 7 days of delivery with photographic proof.
+- Wrong items may be returned within 14 days for full credit.
+- Non-saleable returned goods are subject to a 5% restocking fee.
+- Clearance items are non-returnable.
+delivery_terms:
+- Orders are dispatched within 48 hours of confirmation.
+- 'Standard delivery: 3-5 business days within state, 5-7 days interstate.'
+- Express delivery available at additional cost (Rs 500 per box).
+- Free delivery on orders above 50 boxes.
+- 'Delivery charges for orders below 10 boxes: Rs 250 flat.'

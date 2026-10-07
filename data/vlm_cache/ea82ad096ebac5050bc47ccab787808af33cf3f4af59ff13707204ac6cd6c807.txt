@@ -1,0 +1,3 @@
+[
+  {"sku": "SKU1000", "product": "savon brut", "qty": 50}
+]

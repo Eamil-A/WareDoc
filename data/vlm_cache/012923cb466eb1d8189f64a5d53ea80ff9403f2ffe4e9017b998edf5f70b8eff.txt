@@ -1,0 +1,26 @@
+Here is the list of products transcribed from the catalog:
+
+| SKU | Product Name | Price (Rs) |
+| :--- | :--- | :--- |
+| SKU1040 | Tresemmé shampoo and conditioner | 1,785 |
+| SKU1041 | Minerals Shampo Coconut, 250 ml | 820 |
+| SKU1042 | Detox Purificante | 3,245 |
+| SKU1043 | Shampooing réparateur | 990 |
+| SKU1044 | Guhl Fris & Luchtig Anti-Vet Shampoo | 780 |
+| SKU1045 | Ultra Doux Shampooing Nourrissant Hui... | 645 |
+| SKU1046 | Shampooing anti pelliculaire aux tea ... | 990 |
+| SKU1047 | Repair Miracle Shampoo | 685 |
+| SKU1048 | Pánský šampon s pivem, kofeinem a byl... | 855 |
+| SKU1049 | Shampooing à la quinine et aux vitami... | 1,535 |
+| SKU1050 | Gel douche extra doux Mandarine & cit... | 760 |
+| SKU1051 | Fa Men Black Moon Piment Rouge | 635 |
+| SKU1052 | Marble 3-In-1 Hair, Face, and Body Wash | 910 |
+| SKU1053 | Mangue coriandre - bain douche énergie | 145 |
+| SKU1054 | Monsavon Gel Douche Passion Bien Frui... | 1,325 |
+| SKU1055 | Gel douche parfum Zeste de citron Car... | 650 |
+| SKU1056 | Sensitive 3in1 Body Wash | 1,265 |
+| SKU1057 | Shower gel tropical | 2,800 |
+| SKU1058 | Gel douche exaltant à l'extrait de mú... | 970 |
+| SKU1059 | Lait de douche hydratant cœur de vanille | 845 |
+| SKU1060 | Pflegedusche creme soft | 820 |
+| SKU1061 | Shower gel with essential oils- refre... | 685 |

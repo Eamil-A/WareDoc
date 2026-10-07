@@ -1,0 +1,991 @@
+{
+  "catalog_A": {
+    "file": "catalog_A.pdf",
+    "products": {
+      "SKU1000": 1,
+      "SKU1001": 1,
+      "SKU1002": 1,
+      "SKU1003": 1,
+      "SKU1004": 1,
+      "SKU1005": 1,
+      "SKU1006": 1,
+      "SKU1007": 1,
+      "SKU1008": 1,
+      "SKU1009": 1,
+      "SKU1010": 1,
+      "SKU1011": 1,
+      "SKU1012": 1,
+      "SKU1013": 1,
+      "SKU1014": 1,
+      "SKU1015": 1,
+      "SKU1016": 1,
+      "SKU1017": 1,
+      "SKU1018": 1,
+      "SKU1019": 1,
+      "SKU1020": 1,
+      "SKU1021": 1,
+      "SKU1022": 1,
+      "SKU1023": 1,
+      "SKU1024": 1,
+      "SKU1025": 1,
+      "SKU1026": 1,
+      "SKU1027": 1,
+      "SKU1028": 1,
+      "SKU1029": 1,
+      "SKU1030": 1,
+      "SKU1031": 1,
+      "SKU1032": 1,
+      "SKU1033": 1,
+      "SKU1034": 1,
+      "SKU1035": 1,
+      "SKU1036": 1,
+      "SKU1037": 1,
+      "SKU1038": 1,
+      "SKU1039": 1
+    },
+    "product_list": [
+      {
+        "sku": "SKU1000",
+        "product_name": "Savon brut",
+        "brands": "Le Petit Marseillais",
+        "box_price_inr": 1075,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1001",
+        "product_name": "Pompelmo",
+        "brands": "Wholly Kaw",
+        "box_price_inr": 405,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1002",
+        "product_name": "Savon de Marseille pour textiles d\u00e9licats",
+        "brands": "U",
+        "box_price_inr": 800,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1003",
+        "product_name": "Cr\u00e8me lavante adoucissante au lait d'amande",
+        "brands": "Les Cosm\u00e9tiques Design Paris",
+        "box_price_inr": 545,
+        "pack_size": 12,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1004",
+        "product_name": "Isana cremeseife olive",
+        "brands": "Isana",
+        "box_price_inr": 950,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1005",
+        "product_name": "Monsavon BIO D\u00e9odorant Femme Bille Lait d'Amande 2x50ml",
+        "brands": "BIO",
+        "box_price_inr": 165,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1006",
+        "product_name": "Monsavon BIO D\u00e9odorant Femme Bille Citron Touche de Verveine 50ml",
+        "brands": "BIO",
+        "box_price_inr": 100,
+        "pack_size": 48,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1007",
+        "product_name": "savon de Marseille \u00e0 l'huile d'avocat",
+        "brands": "BleuJaune en Provence",
+        "box_price_inr": 360,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1008",
+        "product_name": "Hamam\u00e9lis",
+        "brands": "Yves Rocher",
+        "box_price_inr": 510,
+        "pack_size": 12,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1009",
+        "product_name": "Baby",
+        "brands": "St. Tropez",
+        "box_price_inr": 165,
+        "pack_size": 48,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1010",
+        "product_name": "SAVON D'ALEP 40% HUILE DE BAIES DE LAURIER (185G)",
+        "brands": "Najel",
+        "box_price_inr": 595,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1011",
+        "product_name": "Gentle & pure hand soap",
+        "brands": "Cien",
+        "box_price_inr": 890,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1012",
+        "product_name": "Savon \u00e0 barbe sans parfum",
+        "brands": "La savonnerie Champagne",
+        "box_price_inr": 310,
+        "pack_size": 48,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1013",
+        "product_name": "Savon cr\u00e8me surgras",
+        "brands": "henkel",
+        "box_price_inr": 190,
+        "pack_size": 12,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1014",
+        "product_name": "Cremeseife Sensitive",
+        "brands": "Balea",
+        "box_price_inr": 500,
+        "pack_size": 6,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1015",
+        "product_name": "Savon soin sensation d'hydratation",
+        "brands": "Cosmia",
+        "box_price_inr": 295,
+        "pack_size": 48,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1016",
+        "product_name": "Saifan Laurel (Ghar) Oil and Olive Oil Soap",
+        "brands": "Koura",
+        "box_price_inr": 1060,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1017",
+        "product_name": "Savon extra-riche",
+        "brands": "Melvita",
+        "box_price_inr": 390,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1018",
+        "product_name": "Beurre Karit\u00e9",
+        "brands": "Les Savons d'Or\u00e9ly",
+        "box_price_inr": 295,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1019",
+        "product_name": "Osama Milde Seife Sensitiv",
+        "brands": "Isana",
+        "box_price_inr": 1290,
+        "pack_size": 48,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1020",
+        "product_name": "Persavon",
+        "brands": "Persavon",
+        "box_price_inr": 680,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1021",
+        "product_name": "Savon Mains aloe vera",
+        "brands": "Winny",
+        "box_price_inr": 835,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1022",
+        "product_name": "Taous",
+        "brands": "Taous",
+        "box_price_inr": 275,
+        "pack_size": 12,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1023",
+        "product_name": "Cicaplast baume b5+",
+        "brands": "La Roche-Posay",
+        "box_price_inr": 80,
+        "pack_size": 6,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1024",
+        "product_name": "Savon liquide antibact\u00e9rien surgras",
+        "brands": "Sanytol",
+        "box_price_inr": 400,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1025",
+        "product_name": "Shampooing quotidien Fruits & Vitamines",
+        "brands": "Cien",
+        "box_price_inr": 1390,
+        "pack_size": 6,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1026",
+        "product_name": "Droogshampoo",
+        "brands": "Love Beauty and Planet",
+        "box_price_inr": 1060,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1027",
+        "product_name": "Anti-dandruff shampoo repair & care",
+        "brands": "head & shoulders",
+        "box_price_inr": 1225,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1028",
+        "product_name": "shampoo",
+        "brands": "clear",
+        "box_price_inr": 2455,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1029",
+        "product_name": "Shampooing antipelliculaire anti-chute",
+        "brands": "Head & Shoulders",
+        "box_price_inr": 1070,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1030",
+        "product_name": "Men Power Shampoo",
+        "brands": "Henkel",
+        "box_price_inr": 1985,
+        "pack_size": 48,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1031",
+        "product_name": "Orchid oil shampoo",
+        "brands": "OGX",
+        "box_price_inr": 920,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1032",
+        "product_name": "Fructis Nutri Repair 3 Huiles",
+        "brands": "L'Or\u00e9al",
+        "box_price_inr": 615,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1033",
+        "product_name": "Anti-Schuppen Intensiv Shampoo (x3, mit Zink-Pyrithion)",
+        "brands": "Henkel",
+        "box_price_inr": 1045,
+        "pack_size": 6,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1034",
+        "product_name": "Shampooing antipelliculaire Colour (limited design edition)",
+        "brands": "Head & Shoulders",
+        "box_price_inr": 1000,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1035",
+        "product_name": "Aloe Hydro Bomb Kr\u00e4ftigendes Shampoo",
+        "brands": "Fructis",
+        "box_price_inr": 630,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1036",
+        "product_name": "Shampooing antipelliculaire Instant Relief Apaisement",
+        "brands": "Head & Shoulders",
+        "box_price_inr": 705,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1037",
+        "product_name": "Shampoo revitalizing",
+        "brands": "Naturalmente",
+        "box_price_inr": 935,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1038",
+        "product_name": "Dove Apr\u00e8s-Shampooing R\u00e9paration Intense 2x200ml",
+        "brands": "Unilever",
+        "box_price_inr": 1370,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1039",
+        "product_name": "Timotei Bio Shampooing Femme \u00c9clat Cheveux color\u00e9s Grenade & Karit\u00e9 250ml",
+        "brands": "Unilever",
+        "box_price_inr": 630,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      }
+    ]
+  },
+  "catalog_B": {
+    "file": "catalog_B.pdf",
+    "products": {
+      "SKU1000": 1,
+      "SKU1001": 2,
+      "SKU1002": 3,
+      "SKU1003": 4,
+      "SKU1004": 5,
+      "SKU1005": 6,
+      "SKU1006": 7,
+      "SKU1007": 8,
+      "SKU1008": 9,
+      "SKU1009": 10,
+      "SKU1010": 11,
+      "SKU1011": 12,
+      "SKU1012": 13,
+      "SKU1013": 14,
+      "SKU1014": 15,
+      "SKU1015": 16,
+      "SKU1016": 17,
+      "SKU1017": 18,
+      "SKU1018": 19,
+      "SKU1019": 20,
+      "SKU1020": 21,
+      "SKU1021": 22,
+      "SKU1022": 23,
+      "SKU1023": 24,
+      "SKU1024": 25,
+      "__tfm_chart__": 26
+    },
+    "product_list": [
+      {
+        "sku": "SKU1000",
+        "product_name": "Savon brut",
+        "brands": "Le Petit Marseillais",
+        "box_price_inr": 1075,
+        "tfm": 78.0,
+        "category": "soap",
+        "ingredients_text": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Talc, Glycerin, Olea Europaea Oil, Lauryl Glucoside, Sodium Chloride, Tetrasodium EDTA, Tetrasodium Etidronate, CI 77891, CI 77492."
+      },
+      {
+        "sku": "SKU1001",
+        "product_name": "Pompelmo",
+        "brands": "Wholly Kaw",
+        "box_price_inr": 405,
+        "tfm": 80.0,
+        "category": "soap",
+        "ingredients_text": "Potassium Stearate, Sodium Stearate, Aqua, Donkey Milk, Glycerin, Potassium Tallowate, Sodium Tallowate, Potassium Ricinoleate, Sodium Ricinoleate, Potassium Shea Butterate, Sodium Shea Butterate, Garcinia Indica (Kokum) Butter, Theobroma Cacao (Cocoa) Butter, Linoleic Acid, Linolenic Acid, Humulus Lupulus (Hops) Extract, Lanolin, Fragrance"
+      },
+      {
+        "sku": "SKU1002",
+        "product_name": "Savon de Marseille pour textiles d\u00e9licats",
+        "brands": "U",
+        "box_price_inr": 800,
+        "tfm": 72.0,
+        "category": "soap",
+        "ingredients_text": "SODIUM TALLOWATE, AQUA, SODIUM COCOATE, GLYCERIN, SODIUM CHLORIDE, ETIDRONIC ACID, SODIUM HYDROXIDE, CI 77891."
+      },
+      {
+        "sku": "SKU1003",
+        "product_name": "Cr\u00e8me lavante adoucissante au lait d'amande",
+        "brands": "Les Cosm\u00e9tiques Design Paris",
+        "box_price_inr": 545,
+        "tfm": null,
+        "category": "soap",
+        "ingredients_text": "Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Cocamidopropyl Betaine, Parfum, PEG-200 Hydrogenated Glyceryl Palmate, Styrene/Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Citric Acid, Sodium Benzoate, Magnesium Nitrate, Sodium Hydroxide, Sodium Lauryl Sulfate, Prunus Amygdalus Dulcis Fruit Extract, Phenoxyethanol, CI 47005, Methylchloroisothiazolinone, Magnesium Chloride, Potassium Sorbate, Xanthan Gum, Methylisothiazolinone, CI 42090."
+      },
+      {
+        "sku": "SKU1004",
+        "product_name": "Isana cremeseife olive",
+        "brands": "Isana",
+        "box_price_inr": 950,
+        "tfm": 71.0,
+        "category": "soap",
+        "ingredients_text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycol Distearate, Coco-Glucoside, Glyceryl Oleate, Sine Adipe Lac, Olea Europaea Leaf Extract, Laureth-4, Parfum, Glycerin, Propylene Glycol, Sodium Lactate, Hydrogenated Vegetable Glycerides Citrate, Tocopherol, Formic Acid, Citric Acid Sodium Benzoate, Potassium Sorbate. Hergestellt f\u00fcr Dirk Rossmann GmbH Isernh\u00e4gener Str. 16, 30938 Burgwedel www.rossmann.de Hergestellt in Deutschland PET 12 Kostenloses Info-Telefon: 500 mle 0800-76 77 62 66"
+      },
+      {
+        "sku": "SKU1005",
+        "product_name": "Monsavon BIO D\u00e9odorant Femme Bille Lait d'Amande 2x50ml",
+        "brands": "BIO",
+        "box_price_inr": 165,
+        "tfm": 80.0,
+        "category": "soap",
+        "ingredients_text": "AQUA, TRIETHYL CITRATE, GLYCERIN, OCTYLDODECANOL, CETEARYL WHEAT STRAW GLYCOSIDES, CETEARYL ALCOHOL, PARFUM, ZINC CITRATE, ALOE BARBADENSIS LEAF EXTRACT*, PRUNUS AMYGDALUS DULCIS FRUIT EXTRACT*, XANTHAN GUM, POLYGLYCERYL-3 CAPRYLATE, SODIUM STEAROYL GLUTAMATE, SODIUM BENZOATE, CITRIC ACID, SORBITAN LAURATE, LINALOOL, LIMONENE, CITRONELLOL, SODIUM HYDROXIDE, BENZYL ALCOHOL, DEHYDROACETIC ACID.*Ingr\u00e9dient issu de l'Agriculture Biologique99% du total est d'origine naturelle20% du total des ingr\u00e9dients sont issus de l'Agriculture BiologiqueCOSMOS ORGANIC certifi\u00e9 par Ecocert Greenlife selon le r\u00e9f\u00e9rentiel COSMOS"
+      },
+      {
+        "sku": "SKU1006",
+        "product_name": "Monsavon BIO D\u00e9odorant Femme Bille Citron Touche de Verveine 50ml",
+        "brands": "BIO",
+        "box_price_inr": 100,
+        "tfm": 70.0,
+        "category": "soap",
+        "ingredients_text": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Glyceryl Stearate Citrate, Triethyl Citrate, Cetearyl Alcohol, Myristyl Myristate, Parfum (Fragrance), Xanthan Gum, Sodium Benzoate, Levulinic Acid, Sodium Levulinate, Aloe Barbadensis Leaf Juice Powder*, Milk Protein, Citric Acid, Sodium Hydroxide, Limonene, Citral, Geraniol, Linalool, Citronellol. * Ingr\u00e9dients issus de l'Agriculture Biologique -------- 20% du total des ingr\u00e9dients sont issus de l'Agriculture Biologique 99% du total est d'origine naturelle COSMOS ORGANIC certifi\u00e9 par Ecocert Greenlife selon le r\u00e9f\u00e9rentiel COSMOS."
+      },
+      {
+        "sku": "SKU1007",
+        "product_name": "savon de Marseille \u00e0 l'huile d'avocat",
+        "brands": "BleuJaune en Provence",
+        "box_price_inr": 360,
+        "tfm": 69.0,
+        "category": "soap",
+        "ingredients_text": "kernelate, Aqua, Butyrospermum parkii butter, Persea Gratissima oil, Palm kernel acid, Sodium Chloride, Tetrasodium EDTA, CI 77891, CI 77288, CI 77492, CI 77491, CI 77499, Coumarin, Hex Glycerin, etidronate, Tetrasodium Hexyl cinnamal, Limonene."
+      },
+      {
+        "sku": "SKU1008",
+        "product_name": "Hamam\u00e9lis",
+        "brands": "Yves Rocher",
+        "box_price_inr": 510,
+        "tfm": 69.0,
+        "category": "soap",
+        "ingredients_text": "Hamam\u00e9lis na peau... oir adoucissant Yves Rocher vous tr de l'hamam\u00e9lis: des ouces! N'oubliez pas de m Rincer abondammi \u2022Tested on sensitive skin under dermatological pH Allergen-free fragrance Key botanicals: or origin, vegetal glycerine No animal ingredients\u2022 for the environment logical act, cleansing base of botanical biodegradable formula non-toxic Good for my skin... Yves Rocher brings you the s incredibly soft hands! of witch hazel: Don't forget to refill me! Rinse thoroughly. NGREDIENTS: AQUA AMMONIUM LAURYL SUI COCAMIDOPROPYL BETAINE HAMAMELIS VIRGIN PARFUM SODIUM LAURYL GLUCOSE CARBOXY OLEATE LAURYL GLUCOSIDE \u2022 HYDROXYPROF CHLORIDE CITRIC ACID - SALICYLIC ACID ALCOR Yves Rocher-56201 La Gacilly France-Made in E.C. www.yves-rocher.com LOSIDE GLYCERIN\u2022 ODIUM BENZOATE \u2022 ICOSIDE GLYCERYL (YPROPYLTRIMONIUM DRIDE Se300 ml C 6M"
+      },
+      {
+        "sku": "SKU1009",
+        "product_name": "Baby",
+        "brands": "St. Tropez",
+        "box_price_inr": 165,
+        "tfm": 73.0,
+        "category": "soap",
+        "ingredients_text": "Sodium Tallowate, Sodium Cocoate/Sodium Palm Kernelate, Sodium Chloride, Glycerin, Tetrasodium EDTA, Etidronic Acid, Parfum, PEG-50 Shea Butter, BHT, CI 77891, Alpha-Isomethyl Ionone, Citronellol, Coumarin, Geraniol, Linalool, Water."
+      },
+      {
+        "sku": "SKU1010",
+        "product_name": "SAVON D'ALEP 40% HUILE DE BAIES DE LAURIER (185G)",
+        "brands": "Najel",
+        "box_price_inr": 595,
+        "tfm": 75.0,
+        "category": "soap",
+        "ingredients_text": "sodium olivate, sodium laurelate, aqua (water), glycerin, sodium chloride, sodium hydroxide."
+      },
+      {
+        "sku": "SKU1011",
+        "product_name": "Gentle & pure hand soap",
+        "brands": "Cien",
+        "box_price_inr": 890,
+        "tfm": null,
+        "category": "soap",
+        "ingredients_text": "Aqua, sodium laureth sulfate, cocamidopropyl betaine, sodium chloride, glycerin, parfum, sodium benzoate, citric acid, potassium sorbate"
+      },
+      {
+        "sku": "SKU1012",
+        "product_name": "Savon \u00e0 barbe sans parfum",
+        "brands": "La savonnerie Champagne",
+        "box_price_inr": 310,
+        "tfm": 69.0,
+        "category": "soap",
+        "ingredients_text": "Cocos nucifera oil - aqua - butyrospermum parkii butter - helianthus annuus seed oil glycerin sodium hydroxide oela europaea fruit oil - cannabis sativa seed oil - kaolin - tocopherol."
+      },
+      {
+        "sku": "SKU1013",
+        "product_name": "Savon cr\u00e8me surgras",
+        "brands": "henkel",
+        "box_price_inr": 190,
+        "tfm": 69.0,
+        "category": "soap",
+        "ingredients_text": "Sodium Tallowate \u00b7 Sodium Cocoate \u00b7 Aqua \u00b7 Talc \u00b7 Coconut Acid \u00b7 Glycerin \u00b7 Sodium Myreth Sulfate \u00b7 Parfum \u00b7 Sodium Chloride \u00b7 Decyl Glucoside \u00b7 Sodium Lactate \u00b7 Propylene Glycol \u00b7 Limonene \u00b7 Benzyl Alcohol \u00b7 BHT \u00b7 Tetrasodium Etidronate \u00b7 Tetrasodium EDTA \u00b7 Sorbitol \u00b7 Calendula Officinalis Flower Extract \u00b7 Hydrolyzed Silk \u00b7 CI 77891"
+      },
+      {
+        "sku": "SKU1014",
+        "product_name": "Cremeseife Sensitive",
+        "brands": "Balea",
+        "box_price_inr": 500,
+        "tfm": 69.0,
+        "category": "soap",
+        "ingredients_text": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, COCOS NUCIFERA OIL, GLYCERIN, PARFUM, PALM ACID, PALM KERNEL ACID, SODIUM CHLORIDE, PROPYLENE GLYCOL, ALOE BARBADENSIS LEAF EXTRACT, TETRASODIUM GLUTAMATE DIACETATE, HEXYL CINNAMAL, BENZYL ALCOHOL, CI 77891"
+      },
+      {
+        "sku": "SKU1015",
+        "product_name": "Savon soin sensation d'hydratation",
+        "brands": "Cosmia",
+        "box_price_inr": 295,
+        "tfm": 71.0,
+        "category": "soap",
+        "ingredients_text": "Sodium palmate, sodium palm kernelate, aqua, glycerin, parfum,zea mays starch, lactic acid, ceteareth-25, tocopheryl acetate,panthenol, sodium chloride, palm acid, palm kernel acid, tetrasodiumglutamate diacetate, benzyl alcohol, ci 77891"
+      },
+      {
+        "sku": "SKU1016",
+        "product_name": "Saifan Laurel (Ghar) Oil and Olive Oil Soap",
+        "brands": "Koura",
+        "box_price_inr": 1060,
+        "tfm": 73.0,
+        "category": "soap",
+        "ingredients_text": "Olive oil, coconut oil, palm oil, laurel oil, water, NaOH"
+      },
+      {
+        "sku": "SKU1017",
+        "product_name": "Savon extra-riche",
+        "brands": "Melvita",
+        "box_price_inr": 390,
+        "tfm": 71.0,
+        "category": "soap",
+        "ingredients_text": "Sodium Palmate*, Sodium Palm Kernelate*, Aqua [Water], Butyrospermum Parkii Butter [Butyrospermum Parkii (Shea Butter)]*, Glycerin, Argania Spinosa Oil [Argania Spinosa Kernel Oil]*, Cocos Nucifera Oil [Cocos Nucifera (Coconut) Oil]*, Sodium Chloride, Sodium Gluconate. *Ingr\u00e9dients issus de l\u2019Agriculture Biologique"
+      },
+      {
+        "sku": "SKU1018",
+        "product_name": "Beurre Karit\u00e9",
+        "brands": "Les Savons d'Or\u00e9ly",
+        "box_price_inr": 295,
+        "tfm": 78.0,
+        "category": "soap",
+        "ingredients_text": "SODIUM OLIVATE, SODIUM COCOATE,SODIUM RAPESEEDATE, AQUA, GLYCERIN, SODIUM SHEABUTTERATE."
+      },
+      {
+        "sku": "SKU1019",
+        "product_name": "Osama Milde Seife Sensitiv",
+        "brands": "Isana",
+        "box_price_inr": 1290,
+        "tfm": 79.0,
+        "category": "soap",
+        "ingredients_text": "INGREDIENTS: Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chioride, Coco-Glucoside, Glyceryl Oleate, Chamomilla Recutita Flower Extract, Propylene Glycol, Bisabolol, Parfum, Tocopherol, Hydrogenated Vegetable Giycenides Citrate. Sodium Lactate, Citric Acid, Sodium Benzoate, Potassium Sorhate"
+      },
+      {
+        "sku": "SKU1020",
+        "product_name": "Persavon",
+        "brands": "Persavon",
+        "box_price_inr": 680,
+        "tfm": 77.0,
+        "category": "soap",
+        "ingredients_text": "Sodium Tallowate, Aqua, Sodium Palm Kernelate, Glycerin, Sodium Chloride, Parfum, Tetrasodium Etidronate"
+      },
+      {
+        "sku": "SKU1021",
+        "product_name": "Savon Mains aloe vera",
+        "brands": "Winny",
+        "box_price_inr": 835,
+        "tfm": null,
+        "category": "soap",
+        "ingredients_text": "Aqua, Sodium Laureth Sulfate, Cocamide DEA, Cocamidopropyl Betaine, Styrene/Acrylates Copolymer and Coco Glucoside, Glycerin, Sodium Chloride, Parfum, Citric Acid."
+      },
+      {
+        "sku": "SKU1022",
+        "product_name": "Taous",
+        "brands": "Taous",
+        "box_price_inr": 275,
+        "tfm": 80.0,
+        "category": "soap",
+        "ingredients_text": "sodium tallowate sodium palmate sodium palmate aqua sodium palm kernelate glycerin sodium chloride parfum limonene hexyl cinnamal"
+      },
+      {
+        "sku": "SKU1023",
+        "product_name": "Cicaplast baume b5+",
+        "brands": "La Roche-Posay",
+        "box_price_inr": 80,
+        "tfm": 70.0,
+        "category": "soap",
+        "ingredients_text": "La Roche-Posay, E108, cr\u00e8me, E102, E170, Cr\u00e8me."
+      },
+      {
+        "sku": "SKU1024",
+        "product_name": "Savon liquide antibact\u00e9rien surgras",
+        "brands": "Sanytol",
+        "box_price_inr": 400,
+        "tfm": null,
+        "category": "soap",
+        "ingredients_text": "Aqua (Water), Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Propylene Glycol, PEG-150 Distearate, Coco-Glucoside, Calendula Officinalis Flower Extract, Aloe Barbadensis Leaf Juice, C12-13 Alkyl Lactate, Glyceryl Oleate, Panthenol, Polysorbate 20, Linoleic Acid, Tetrasodium EDTA, Benzophenone-4, Linolenic Acid, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, Sodium Chloride, Lactic Acid, Parfum (Fragrance)."
+      }
+    ],
+    "tfm_chart_page": 26,
+    "num_soaps_in_chart": 21
+  },
+  "catalog_C": {
+    "file": "catalog_C.pdf",
+    "products": {
+      "SKU1040": 1,
+      "SKU1041": 1,
+      "SKU1042": 1,
+      "SKU1043": 1,
+      "SKU1044": 1,
+      "SKU1045": 1,
+      "SKU1046": 1,
+      "SKU1047": 1,
+      "SKU1048": 1,
+      "SKU1049": 1,
+      "SKU1050": 1,
+      "SKU1051": 1,
+      "SKU1052": 1,
+      "SKU1053": 1,
+      "SKU1054": 1,
+      "SKU1055": 1,
+      "SKU1056": 1,
+      "SKU1057": 1,
+      "SKU1058": 1,
+      "SKU1059": 1,
+      "SKU1060": 1,
+      "SKU1061": 1,
+      "SKU1005": 2,
+      "SKU1013": 2,
+      "SKU1015": 2,
+      "SKU1017": 2,
+      "SKU1020": 2,
+      "SKU1023": 2,
+      "SKU1036": 2,
+      "SKU1039": 2
+    },
+    "product_list": [
+      {
+        "sku": "SKU1040",
+        "product_name": "Tresemm\u00e9 shampoo and conditioner",
+        "brands": "Tresemm\u00e9",
+        "box_price_inr": 1785,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1041",
+        "product_name": "Minerals Shampo Coconut, 250 ml",
+        "brands": "Orkla Home & Personal Care AS",
+        "box_price_inr": 820,
+        "pack_size": 6,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1042",
+        "product_name": "Detox Purificante",
+        "brands": "Henkel",
+        "box_price_inr": 3245,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1043",
+        "product_name": "Shampooing r\u00e9parateur",
+        "brands": "Pouce",
+        "box_price_inr": 990,
+        "pack_size": 48,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1044",
+        "product_name": "Guhl Fris & Luchtig Anti-Vet Shampoo",
+        "brands": "Guhl",
+        "box_price_inr": 780,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1045",
+        "product_name": "Ultra Doux Shampooing Nourrissant Huile d'Avocat et Beurre de Karit\u00e9",
+        "brands": "l-oreal",
+        "box_price_inr": 645,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1046",
+        "product_name": "Shampooing anti pelliculaire aux tea tree et dandrilys",
+        "brands": "P\u00e9trole Hahn",
+        "box_price_inr": 990,
+        "pack_size": 6,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1047",
+        "product_name": "Repair Miracle Shampoo",
+        "brands": "Aussie",
+        "box_price_inr": 685,
+        "pack_size": 12,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1048",
+        "product_name": "P\u00e1nsk\u00fd \u0161ampon s pivem, kofeinem a bylinami",
+        "brands": "Manufaktura",
+        "box_price_inr": 855,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1049",
+        "product_name": "Shampooing \u00e0 la quinine et aux vitamines B",
+        "brands": "Klorane",
+        "box_price_inr": 1535,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1050",
+        "product_name": "Gel douche extra doux Mandarine & citron vert",
+        "brands": "Le Petit Marseillais",
+        "box_price_inr": 760,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1051",
+        "product_name": "Fa Men Black Moon Piment Rouge",
+        "brands": "Henkel",
+        "box_price_inr": 635,
+        "pack_size": 6,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1052",
+        "product_name": "Marble 3-In-1 Hair, Face, and Body Wash",
+        "brands": "Bath & Body Works",
+        "box_price_inr": 910,
+        "pack_size": 12,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1053",
+        "product_name": "Mangue coriandre - bain douche \u00e9nergie",
+        "brands": "Yves Rocher",
+        "box_price_inr": 145,
+        "pack_size": 48,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1054",
+        "product_name": "Monsavon Gel Douche Passion Bien Fruit\u00e9e 300ml Lot de 2",
+        "brands": "Au Lait",
+        "box_price_inr": 1325,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1055",
+        "product_name": "Gel douche parfum Zeste de citron Carambole",
+        "brands": "By U",
+        "box_price_inr": 650,
+        "pack_size": 12,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1056",
+        "product_name": "Sensitive 3in1 Body Wash",
+        "brands": "Nivea Men",
+        "box_price_inr": 1265,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1057",
+        "product_name": "Shower gel tropical",
+        "brands": "Cosmia",
+        "box_price_inr": 2800,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1058",
+        "product_name": "Gel douche exaltant \u00e0 l'extrait de m\u00fbre bio de Bretagne",
+        "brands": "Nature Moi",
+        "box_price_inr": 970,
+        "pack_size": 12,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1059",
+        "product_name": "Lait de douche hydratant c\u0153ur de vanille",
+        "brands": "Manava",
+        "box_price_inr": 845,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1060",
+        "product_name": "Pflegedusche creme soft",
+        "brands": "Nivea",
+        "box_price_inr": 820,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1061",
+        "product_name": "Shower gel with essential oils- refreshing fig",
+        "brands": "Apivita",
+        "box_price_inr": 685,
+        "pack_size": 24,
+        "supplier": "Distributor A"
+      },
+      {
+        "sku": "SKU1005",
+        "product_name": "Monsavon BIO D\u00e9odorant Femme Bille Lait d'Amande 2x50ml",
+        "brands": "BIO",
+        "box_price_inr": 155,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1013",
+        "product_name": "Savon cr\u00e8me surgras",
+        "brands": "henkel",
+        "box_price_inr": 185,
+        "pack_size": 12,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1015",
+        "product_name": "Savon soin sensation d'hydratation",
+        "brands": "Cosmia",
+        "box_price_inr": 285,
+        "pack_size": 48,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1017",
+        "product_name": "Savon extra-riche",
+        "brands": "Melvita",
+        "box_price_inr": 410,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1020",
+        "product_name": "Persavon",
+        "brands": "Persavon",
+        "box_price_inr": 705,
+        "pack_size": 24,
+        "supplier": "Brand B"
+      },
+      {
+        "sku": "SKU1023",
+        "product_name": "Cicaplast baume b5+",
+        "brands": "La Roche-Posay",
+        "box_price_inr": 75,
+        "pack_size": 6,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1036",
+        "product_name": "Shampooing antipelliculaire Instant Relief Apaisement",
+        "brands": "Head & Shoulders",
+        "box_price_inr": 660,
+        "pack_size": 24,
+        "supplier": "Distributor C"
+      },
+      {
+        "sku": "SKU1039",
+        "product_name": "Timotei Bio Shampooing Femme \u00c9clat Cheveux color\u00e9s Grenade & Karit\u00e9 250ml",
+        "brands": "Unilever",
+        "box_price_inr": 665,
+        "pack_size": 12,
+        "supplier": "Brand B"
+      }
+    ],
+    "overlap_skus": [
+      "SKU1039",
+      "SKU1017",
+      "SKU1020",
+      "SKU1013",
+      "SKU1005",
+      "SKU1023",
+      "SKU1036",
+      "SKU1015"
+    ],
+    "price_overrides": {
+      "SKU1005": 155,
+      "SKU1013": 185,
+      "SKU1015": 285,
+      "SKU1017": 410,
+      "SKU1020": 705,
+      "SKU1023": 75,
+      "SKU1036": 660,
+      "SKU1039": 665
+    }
+  },
+  "quarterly_report": {
+    "file": "quarterly_report.pdf",
+    "narrative_page": 1,
+    "table_page": 2,
+    "chart_page": 3,
+    "quarterly_data": {
+      "categories": [
+        "Soap",
+        "Hand Wash",
+        "Body Wash",
+        "Shampoo",
+        "Face Wash"
+      ],
+      "quarters": [
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "sales": {
+        "Soap": {
+          "Q1": 12000,
+          "Q2": 9500,
+          "Q3": 14000,
+          "Q4": 18500
+        },
+        "Hand Wash": {
+          "Q1": 8000,
+          "Q2": 7200,
+          "Q3": 9500,
+          "Q4": 11500
+        },
+        "Body Wash": {
+          "Q1": 10000,
+          "Q2": 8500,
+          "Q3": 12000,
+          "Q4": 15200
+        },
+        "Shampoo": {
+          "Q1": 11000,
+          "Q2": 9000,
+          "Q3": 13500,
+          "Q4": 16000
+        },
+        "Face Wash": {
+          "Q1": 6000,
+          "Q2": 5500,
+          "Q3": 7000,
+          "Q4": 8500
+        }
+      }
+    },
+    "narrative_reasons": [
+      "Festive season demand (Diwali and year-end celebrations) drove Q3-Q4 surge",
+      "Distributor B supplier delay caused Q2 dip across all categories",
+      "Price increase of 8-12% on bar soaps in Q4 boosted revenue"
+    ]
+  },
+  "policy": {
+    "file": "policy.pdf",
+    "discounts_page": 1,
+    "returns_page": 1,
+    "delivery_page": 1,
+    "customers_page": 1
+  }
+}

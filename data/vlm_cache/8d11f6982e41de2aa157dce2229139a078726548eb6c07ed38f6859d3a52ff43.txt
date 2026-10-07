@@ -1,0 +1,10 @@
+| SKU | Product | Brand | Pack | Price (Rs) |
+| :--- | :--- | :--- | :--- | :--- |
+| SKU1005 | Monsavon BIO Déodorant Femme Bille La... | BIO | 24 | 155 |
+| SKU1013 | Savon crème surgras | henkel | 12 | 185 |
+| SKU1015 | Savon soin sensation d'hydratation | Cosmia | 48 | 285 |
+| SKU1017 | Savon extra-riche | Melvita | 24 | 410 |
+| SKU1020 | Persavon | Persavon | 24 | 705 |
+| SKU1023 | Cicaplast baume b5+ | La Roche-Posay | 6 | 75 |
+| SKU1036 | Shampooing antipelliculaire Instant R... | Head & Shoulders | 24 | 660 |
+| SKU1039 | Timotei Bio Shampooing Femme Éclat Ch... | Unilever | 12 | 665 |

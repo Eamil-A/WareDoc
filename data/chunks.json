@@ -1,0 +1,702 @@
+[
+  {
+    "chunk_id": "catalog_A_p1_c0",
+    "doc": "catalog_A",
+    "page": 1,
+    "section": "Catalog A - Price List",
+    "type": "text",
+    "text": "Catalog A - Price List\nWholesale Soap & Personal Care\nPage 1\nWareDoc\nCatalog A - Price List\nSKU\nProduct\nPack\nPrice (INR)\nSKU1\n000\nSavon brut\n24\n1,075\nSKU1\n001\nPompelmo\n24\n405\nSKU1\n002\nSavon de Marseille pour t... 24\n800\nSKU1\n003\nCrème lavante adoucissant... 12\n545\nSKU1\n004\nIsana cremeseife olive\n24\n950\nSKU1\n005\nMonsavon BIO Déodorant\nFe... 24\n165\nSKU1\n006\nMonsavon BIO Déodorant\nFe... 48\n100\nSKU1\n007\nsavon de Marseille à l'hu... 12\n360\nSKU1\n008\nHamamélis\n12\n510\nSKU1\n009\nBaby\n48\n165\nSKU\nProduct\nPack\nPrice (INR)\nSKU1\n010\nSAVON D'ALEP 40% HUILE\nDE... 24\n595\nSKU1\n011\nGentle & pure hand soap\n12\n890\nSKU1\n012\nSavon à barbe sans parfum\n48\n310\nSKU1\n013\nSavon crème surgras\n12\n190\nSKU1\n014\nCremeseife Sensitive\n6\n500\nSKU1\n015\nSavon soin sensation d'hy... 48\n295\nSKU1\n016\nSaifan Laurel (Ghar) Oil ... 24\n1,060\nSKU1\n017\nSavon extra-riche\n24\n390\nSKU1\n018\nBeurre Karité\n24\n295\nSKU1\n019\nOsama Milde Seife Sensitiv\n48\n1,290\nSKU\nProduct\nPack\nPrice (INR)\nSKU1\n020\nPersavon\n24\n680\nSKU1\n021\nSavon Mains aloe vera\n24\n835\nSKU1\n022\nTaous\n12\n275\nSKU\nProduct\nPack\nPrice (INR)\nSKU1\n023\nCicaplast baume b5+\n6\n80\nSKU1\n024\nSavon liquide antibactéri... 12\n400\nSKU1\n025\nShampooing quotidien Frui...",
+    "image_path": "data\\page_images\\catalog_A_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_A_p1_c1",
+    "doc": "catalog_A",
+    "page": 1,
+    "section": "Catalog A - Price List",
+    "type": "text",
+    "text": "6\n1,390\nSKU1\n026\nDroogshampoo\n24\n1,060\nSKU1\n027\nAnti-dandruff shampoo rep... 24\n1,225\nSKU1\n028\nshampoo\n24\n2,455\nSKU1\n029\nShampooing antipelliculai... 24\n1,070\nSKU\nProduct\nPack\nPrice (INR)\nSKU1\n030\nMen Power Shampoo\n48\n1,985\nSKU1\n031\nOrchid oil shampoo\n24\n920\nSKU1\n032\nFructis Nutri Repair 3 Hu... 12\n615\nSKU1\n033\nAnti-Schuppen Intensiv Sh... 6\n1,045\nSKU1\n034\nShampooing antipelliculai... 12\n1,000\nSKU1\n035\nAloe Hydro Bomb Kräftigen... 24\n630\nSKU1\n036\nShampooing antipelliculai... 24\n705\nSKU1\n037\nShampoo revitalizing\n24\n935\nSKU1\n038\nDove Après-Shampooing\nRép... 12\n1,370\nSKU1\n039\nTimotei Bio Shampooing Fe... 12\n630",
+    "image_path": "data\\page_images\\catalog_A_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_A_p1_c2",
+    "doc": "catalog_A",
+    "page": 1,
+    "section": "Catalog A - Price List",
+    "type": "table",
+    "text": "| SKU | Product | Pack | Price (INR) |\n| --- | --- | --- | --- |\n| SKU1 000 | Savon brut | 24 | 1,075 |\n| SKU1 001 | Pompelmo | 24 | 405 |\n| SKU1 002 | Savon de Marseille pour t... | 24 | 800 |\n| SKU1 003 | Crème lavante adoucissant... | 12 | 545 |\n| SKU1 004 | Isana cremeseife olive | 24 | 950 |\n| SKU1 005 | Monsavon BIO Déodorant Fe... | 24 | 165 |\n| SKU1 006 | Monsavon BIO Déodorant Fe... | 48 | 100 |\n| SKU1 007 | savon de Marseille à l'hu... | 12 | 360 |\n| SKU1 008 | Hamamélis | 12 | 510 |\n| SKU1 009 | Baby | 48 | 165 |",
+    "image_path": "data\\page_images\\catalog_A_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_A_p1_c3",
+    "doc": "catalog_A",
+    "page": 1,
+    "section": "Catalog A - Price List",
+    "type": "table",
+    "text": "| SKU | Product | Pack | Price (INR) |\n| --- | --- | --- | --- |\n| SKU1 023 | Cicaplast baume b5+ | 6 | 80 |\n| SKU1 024 | Savon liquide antibactéri... | 12 | 400 |\n| SKU1 025 | Shampooing quotidien Frui... | 6 | 1,390 |\n| SKU1 026 | Droogshampoo | 24 | 1,060 |\n| SKU1 027 | Anti-dandruff shampoo rep... | 24 | 1,225 |\n| SKU1 028 | shampoo | 24 | 2,455 |\n| SKU1 029 | Shampooing antipelliculai... | 24 | 1,070 |",
+    "image_path": "data\\page_images\\catalog_A_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_A_p1_c4",
+    "doc": "catalog_A",
+    "page": 1,
+    "section": "Catalog A - Price List",
+    "type": "table",
+    "text": "| SKU | Product | Pack | Price (INR) |\n| --- | --- | --- | --- |\n| SKU1 030 | Men Power Shampoo | 48 | 1,985 |\n| SKU1 031 | Orchid oil shampoo | 24 | 920 |\n| SKU1 032 | Fructis Nutri Repair 3 Hu... | 12 | 615 |\n| SKU1 033 | Anti-Schuppen Intensiv Sh... | 6 | 1,045 |\n| SKU1 034 | Shampooing antipelliculai... | 12 | 1,000 |\n| SKU1 035 | Aloe Hydro Bomb Kräftigen... | 24 | 630 |\n| SKU1 036 | Shampooing antipelliculai... | 24 | 705 |\n| SKU1 037 | Shampoo revitalizing | 24 | 935 |\n| SKU1 038 | Dove Après-Shampooing Rép... | 12 | 1,370 |\n| SKU1 039 | Timotei Bio Shampooing Fe... | 12 | 630 |",
+    "image_path": "data\\page_images\\catalog_A_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_A_p1_c5",
+    "doc": "catalog_A",
+    "page": 1,
+    "section": "Catalog A - Price List",
+    "type": "table",
+    "text": "| SKU | Product | Pack | Price (INR) |\n| --- | --- | --- | --- |\n| SKU1 010 | SAVON D'ALEP 40% HUILE DE... | 24 | 595 |\n| SKU1 011 | Gentle & pure hand soap | 12 | 890 |\n| SKU1 012 | Savon à barbe sans parfum | 48 | 310 |\n| SKU1 013 | Savon crème surgras | 12 | 190 |\n| SKU1 014 | Cremeseife Sensitive | 6 | 500 |\n| SKU1 015 | Savon soin sensation d'hy... | 48 | 295 |\n| SKU1 016 | Saifan Laurel (Ghar) Oil ... | 24 | 1,060 |\n| SKU1 017 | Savon extra-riche | 24 | 390 |\n| SKU1 018 | Beurre Karité | 24 | 295 |\n| SKU1 019 | Osama Milde Seife Sensitiv | 48 | 1,290 |",
+    "image_path": "data\\page_images\\catalog_A_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_A_p1_c6",
+    "doc": "catalog_A",
+    "page": 1,
+    "section": "Catalog A - Price List",
+    "type": "table",
+    "text": "| SKU | Product | Pack | Price (INR) |\n| --- | --- | --- | --- |\n| SKU1 020 | Persavon | 24 | 680 |\n| SKU1 021 | Savon Mains aloe vera | 24 | 835 |\n| SKU1 022 | Taous | 12 | 275 |",
+    "image_path": "data\\page_images\\catalog_A_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p1_c0",
+    "doc": "catalog_B",
+    "page": 1,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 1\nWareDoc\nCatalog B - Product Details\nSavon brut\nIngredients: Sodium Palmate, Sodium Palm Kernelate, Aqua, Talc, Glycerin, Olea Europaea Oil, Lauryl Glucoside,\nSodium Chloride, Tetrasodium EDTA, Tetrasodium Etidronate, CI 77891, CI 77492.\nSKU\nSKU1000\nBrand\nLe Petit Marseillais\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n300 g\nBox Price\nRs 1,075\nSupplier\nDistributor C\nTFM\n78.0",
+    "image_path": "data\\page_images\\catalog_B_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p1_c1",
+    "doc": "catalog_B",
+    "page": 1,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1000 | Brand | Le Petit Marseillais |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 300 g | Box Price | Rs 1,075 |\n| Supplier | Distributor C | TFM | 78.0 |",
+    "image_path": "data\\page_images\\catalog_B_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p2_c2",
+    "doc": "catalog_B",
+    "page": 2,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 2\nWareDoc\nCatalog B - Product Details\nPompelmo\nIngredients: Potassium Stearate, Sodium Stearate, Aqua, Donkey Milk, Glycerin, Potassium Tallowate, Sodium\nTallowate, Potassium Ricinoleate, Sodium Ricinoleate, Potassium Shea Butterate, Sodium Shea Butterate, Garcinia\nIndica (Kokum) Butter, Theobroma Cacao (Cocoa) Butter, Linoleic Acid, Linolenic Acid, Humulus Lupulus (Hops) Extract,\nLanolin, Fragrance\nSKU\nSKU1001\nBrand\nWholly Kaw\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n114 g\nBox Price\nRs 405\nSupplier\nBrand B\nTFM\n80.0",
+    "image_path": "data\\page_images\\catalog_B_p2.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p2_c3",
+    "doc": "catalog_B",
+    "page": 2,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1001 | Brand | Wholly Kaw |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 114 g | Box Price | Rs 405 |\n| Supplier | Brand B | TFM | 80.0 |",
+    "image_path": "data\\page_images\\catalog_B_p2.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p3_c4",
+    "doc": "catalog_B",
+    "page": 3,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 3\nWareDoc\nCatalog B - Product Details\nSavon de Marseille pour textiles délicats\nIngredients: SODIUM TALLOWATE, AQUA, SODIUM COCOATE, GLYCERIN, SODIUM CHLORIDE, ETIDRONIC\nACID, SODIUM HYDROXIDE, CI 77891.\nSKU\nSKU1002\nBrand\nU\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n400 g\nBox Price\nRs 800\nSupplier\nDistributor A\nTFM\n72.0",
+    "image_path": "data\\page_images\\catalog_B_p3.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p3_c5",
+    "doc": "catalog_B",
+    "page": 3,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1002 | Brand | U |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 400 g | Box Price | Rs 800 |\n| Supplier | Distributor A | TFM | 72.0 |",
+    "image_path": "data\\page_images\\catalog_B_p3.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p4_c6",
+    "doc": "catalog_B",
+    "page": 4,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 4\nWareDoc\nCatalog B - Product Details\nCrème lavante adoucissante au lait d'amande\nIngredients: Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Cocamidopropyl Betaine, Parfum, PEG-200\nHydrogenated Glyceryl Palmate, Styrene/Acrylates Copolymer, PEG-7 Glyceryl Cocoate, Citric Acid, Sodium Benzoate,\nMagnesium Nitrate, Sodium Hydroxide, Sodium Lauryl Sulfate, Prunus Amygdalus Dulcis Fruit Extract, Phenoxyethanol,\nCI 47005, Methylchloroisothiazolinone, Magnesium Chloride, Potassium So...\nSKU\nSKU1003\nBrand\nLes Cosmétiques Design Paris\nCategory\nSoap\nPack Size\n12 units/box\nQuantity\n300 ml\nBox Price\nRs 545\nSupplier\nDistributor C\nTFM\nN/A",
+    "image_path": "data\\page_images\\catalog_B_p4.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p4_c7",
+    "doc": "catalog_B",
+    "page": 4,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1003 | Brand | Les Cosmétiques Design Paris |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 12 units/box |\n| Quantity | 300 ml | Box Price | Rs 545 |\n| Supplier | Distributor C | TFM | N/A |",
+    "image_path": "data\\page_images\\catalog_B_p4.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p5_c8",
+    "doc": "catalog_B",
+    "page": 5,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 5\nWareDoc\nCatalog B - Product Details\nIsana cremeseife olive\nIngredients: Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycol Distearate,\nCoco-Glucoside, Glyceryl Oleate, Sine Adipe Lac, Olea Europaea Leaf Extract, Laureth-4, Parfum, Glycerin, Propylene\nGlycol, Sodium Lactate, Hydrogenated Vegetable Glycerides Citrate, Tocopherol, Formic Acid, Citric Acid Sodium\nBenzoate, Potassium Sorbate. Hergestellt für Dirk Rossmann GmbH Isernhägener Str...\nSKU\nSKU1004\nBrand\nIsana\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n500 ml\nBox Price\nRs 950\nSupplier\nDistributor C\nTFM\n71.0",
+    "image_path": "data\\page_images\\catalog_B_p5.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p5_c9",
+    "doc": "catalog_B",
+    "page": 5,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1004 | Brand | Isana |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 500 ml | Box Price | Rs 950 |\n| Supplier | Distributor C | TFM | 71.0 |",
+    "image_path": "data\\page_images\\catalog_B_p5.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p6_c10",
+    "doc": "catalog_B",
+    "page": 6,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 6\nWareDoc\nCatalog B - Product Details\nMonsavon BIO Déodorant Femme Bille Lait d'Amande 2x50ml\nIngredients: AQUA, TRIETHYL CITRATE, GLYCERIN, OCTYLDODECANOL, CETEARYL WHEAT STRAW\nGLYCOSIDES, CETEARYL ALCOHOL, PARFUM, ZINC CITRATE, ALOE BARBADENSIS LEAF EXTRACT*, PRUNUS\nAMYGDALUS DULCIS FRUIT EXTRACT*, XANTHAN GUM, POLYGLYCERYL-3 CAPRYLATE, SODIUM STEAROYL\nGLUTAMATE, SODIUM BENZOATE, CITRIC ACID, SORBITAN LAURATE, LINALOOL, LIMONENE, CITRONELLOL,\nSODIUM HYDROXIDE, BENZYL ALCOHOL, DEHYDROACETIC ACID.*I...\nSKU\nSKU1005\nBrand\nBIO\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n100 ml\nBox Price\nRs 165\nSupplier\nBrand B\nTFM\n80.0",
+    "image_path": "data\\page_images\\catalog_B_p6.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p6_c11",
+    "doc": "catalog_B",
+    "page": 6,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1005 | Brand | BIO |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 100 ml | Box Price | Rs 165 |\n| Supplier | Brand B | TFM | 80.0 |",
+    "image_path": "data\\page_images\\catalog_B_p6.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p7_c12",
+    "doc": "catalog_B",
+    "page": 7,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 7\nWareDoc\nCatalog B - Product Details\nMonsavon BIO Déodorant Femme Bille Citron Touche de Verveine 50ml\nIngredients: Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Glyceryl Stearate Citrate, Triethyl Citrate, Cetearyl\nAlcohol, Myristyl Myristate, Parfum (Fragrance), Xanthan Gum, Sodium Benzoate, Levulinic Acid, Sodium Levulinate,\nAloe Barbadensis Leaf Juice Powder*, Milk Protein, Citric Acid, Sodium Hydroxide, Limonene, Citral, Geraniol, Linalool,\nCitronellol. * Ingrédients issus de l'Agriculture Biolo...\nSKU\nSKU1006\nBrand\nBIO\nCategory\nSoap\nPack Size\n48 units/box\nQuantity\n50 ml\nBox Price\nRs 100\nSupplier\nDistributor C\nTFM\n70.0",
+    "image_path": "data\\page_images\\catalog_B_p7.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p7_c13",
+    "doc": "catalog_B",
+    "page": 7,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1006 | Brand | BIO |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 48 units/box |\n| Quantity | 50 ml | Box Price | Rs 100 |\n| Supplier | Distributor C | TFM | 70.0 |",
+    "image_path": "data\\page_images\\catalog_B_p7.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p8_c14",
+    "doc": "catalog_B",
+    "page": 8,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 8\nWareDoc\nCatalog B - Product Details\nsavon de Marseille à l'huile d'avocat\nIngredients: kernelate, Aqua, Butyrospermum parkii butter, Persea Gratissima oil, Palm kernel acid, Sodium Chloride,\nTetrasodium EDTA, CI 77891, CI 77288, CI 77492, CI 77491, CI 77499, Coumarin, Hex Glycerin, etidronate, Tetrasodium\nHexyl cinnamal, Limonene.\nSKU\nSKU1007\nBrand\nBleuJaune en Provence\nCategory\nSoap\nPack Size\n12 units/box\nQuantity\n100 g\nBox Price\nRs 360\nSupplier\nBrand B\nTFM\n69.0",
+    "image_path": "data\\page_images\\catalog_B_p8.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p8_c15",
+    "doc": "catalog_B",
+    "page": 8,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1007 | Brand | BleuJaune en Provence |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 12 units/box |\n| Quantity | 100 g | Box Price | Rs 360 |\n| Supplier | Brand B | TFM | 69.0 |",
+    "image_path": "data\\page_images\\catalog_B_p8.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p9_c16",
+    "doc": "catalog_B",
+    "page": 9,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 9\nWareDoc\nCatalog B - Product Details\nHamamélis\nIngredients: Hamamélis na peau... oir adoucissant Yves Rocher vous tr de l'hamamélis: des ouces! N'oubliez pas de m\nRincer abondammi •Tested on sensitive skin under dermatological pH Allergen-free fragrance Key botanicals: or origin,\nvegetal glycerine No animal ingredients• for the environment logical act, cleansing base of botanical biodegradable\nformula non-toxic Good for my skin... Yves Rocher brings you...\nSKU\nSKU1008\nBrand\nYves Rocher\nCategory\nSoap\nPack Size\n12 units/box\nQuantity\n300 ml\nBox Price\nRs 510\nSupplier\nDistributor A\nTFM\n69.0",
+    "image_path": "data\\page_images\\catalog_B_p9.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p9_c17",
+    "doc": "catalog_B",
+    "page": 9,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1008 | Brand | Yves Rocher |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 12 units/box |\n| Quantity | 300 ml | Box Price | Rs 510 |\n| Supplier | Distributor A | TFM | 69.0 |",
+    "image_path": "data\\page_images\\catalog_B_p9.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p10_c18",
+    "doc": "catalog_B",
+    "page": 10,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 10\nWareDoc\nCatalog B - Product Details\nBaby\nIngredients: Sodium Tallowate, Sodium Cocoate/Sodium Palm Kernelate, Sodium Chloride, Glycerin, Tetrasodium\nEDTA, Etidronic Acid, Parfum, PEG-50 Shea Butter, BHT, CI 77891, Alpha-Isomethyl Ionone, Citronellol, Coumarin,\nGeraniol, Linalool, Water.\nSKU\nSKU1009\nBrand\nSt. Tropez\nCategory\nSoap\nPack Size\n48 units/box\nQuantity\n80 g\nBox Price\nRs 165\nSupplier\nBrand B\nTFM\n73.0",
+    "image_path": "data\\page_images\\catalog_B_p10.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p10_c19",
+    "doc": "catalog_B",
+    "page": 10,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1009 | Brand | St. Tropez |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 48 units/box |\n| Quantity | 80 g | Box Price | Rs 165 |\n| Supplier | Brand B | TFM | 73.0 |",
+    "image_path": "data\\page_images\\catalog_B_p10.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p11_c20",
+    "doc": "catalog_B",
+    "page": 11,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 11\nWareDoc\nCatalog B - Product Details\nSAVON D'ALEP 40% HUILE DE BAIES DE LAURIER (185G)\nIngredients: sodium olivate, sodium laurelate, aqua (water), glycerin, sodium chloride, sodium hydroxide.\nSKU\nSKU1010\nBrand\nNajel\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n185 g\nBox Price\nRs 595\nSupplier\nDistributor C\nTFM\n75.0",
+    "image_path": "data\\page_images\\catalog_B_p11.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p11_c21",
+    "doc": "catalog_B",
+    "page": 11,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1010 | Brand | Najel |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 185 g | Box Price | Rs 595 |\n| Supplier | Distributor C | TFM | 75.0 |",
+    "image_path": "data\\page_images\\catalog_B_p11.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p12_c22",
+    "doc": "catalog_B",
+    "page": 12,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 12\nWareDoc\nCatalog B - Product Details\nGentle & pure hand soap\nIngredients: Aqua, sodium laureth sulfate, cocamidopropyl betaine, sodium chloride, glycerin, parfum, sodium benzoate,\ncitric acid, potassium sorbate\nSKU\nSKU1011\nBrand\nCien\nCategory\nSoap\nPack Size\n12 units/box\nQuantity\n500 ml\nBox Price\nRs 890\nSupplier\nBrand B\nTFM\nN/A",
+    "image_path": "data\\page_images\\catalog_B_p12.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p12_c23",
+    "doc": "catalog_B",
+    "page": 12,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1011 | Brand | Cien |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 12 units/box |\n| Quantity | 500 ml | Box Price | Rs 890 |\n| Supplier | Brand B | TFM | N/A |",
+    "image_path": "data\\page_images\\catalog_B_p12.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p13_c24",
+    "doc": "catalog_B",
+    "page": 13,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 13\nWareDoc\nCatalog B - Product Details\nSavon à barbe sans parfum\nIngredients: Cocos nucifera oil - aqua - butyrospermum parkii butter - helianthus annuus seed oil glycerin sodium\nhydroxide oela europaea fruit oil - cannabis sativa seed oil - kaolin - tocopherol.\nSKU\nSKU1012\nBrand\nLa savonnerie Champagne\nCategory\nSoap\nPack Size\n48 units/box\nQuantity\n100 g\nBox Price\nRs 310\nSupplier\nBrand B\nTFM\n69.0",
+    "image_path": "data\\page_images\\catalog_B_p13.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p13_c25",
+    "doc": "catalog_B",
+    "page": 13,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1012 | Brand | La savonnerie Champagne |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 48 units/box |\n| Quantity | 100 g | Box Price | Rs 310 |\n| Supplier | Brand B | TFM | 69.0 |",
+    "image_path": "data\\page_images\\catalog_B_p13.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p14_c26",
+    "doc": "catalog_B",
+    "page": 14,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 14\nWareDoc\nCatalog B - Product Details\nSavon crème surgras\nIngredients: Sodium Tallowate · Sodium Cocoate · Aqua · Talc · Coconut Acid · Glycerin · Sodium Myreth Sulfate ·\nParfum · Sodium Chloride · Decyl Glucoside · Sodium Lactate · Propylene Glycol · Limonene · Benzyl Alcohol · BHT ·\nTetrasodium Etidronate · Tetrasodium EDTA · Sorbitol · Calendula Officinalis Flower Extract · Hydrolyzed Silk · CI 77891\nSKU\nSKU1013\nBrand\nhenkel\nCategory\nSoap\nPack Size\n12 units/box\nQuantity\n100 g\nBox Price\nRs 190\nSupplier\nDistributor C\nTFM\n69.0",
+    "image_path": "data\\page_images\\catalog_B_p14.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p14_c27",
+    "doc": "catalog_B",
+    "page": 14,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1013 | Brand | henkel |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 12 units/box |\n| Quantity | 100 g | Box Price | Rs 190 |\n| Supplier | Distributor C | TFM | 69.0 |",
+    "image_path": "data\\page_images\\catalog_B_p14.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p15_c28",
+    "doc": "catalog_B",
+    "page": 15,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 15\nWareDoc\nCatalog B - Product Details\nCremeseife Sensitive\nIngredients: SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, COCOS NUCIFERA OIL, GLYCERIN,\nPARFUM, PALM ACID, PALM KERNEL ACID, SODIUM CHLORIDE, PROPYLENE GLYCOL, ALOE BARBADENSIS\nLEAF EXTRACT, TETRASODIUM GLUTAMATE DIACETATE, HEXYL CINNAMAL, BENZYL ALCOHOL, CI 77891\nSKU\nSKU1014\nBrand\nBalea\nCategory\nSoap\nPack Size\n6 units/box\nQuantity\n150 g\nBox Price\nRs 500\nSupplier\nDistributor C\nTFM\n69.0",
+    "image_path": "data\\page_images\\catalog_B_p15.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p15_c29",
+    "doc": "catalog_B",
+    "page": 15,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1014 | Brand | Balea |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 6 units/box |\n| Quantity | 150 g | Box Price | Rs 500 |\n| Supplier | Distributor C | TFM | 69.0 |",
+    "image_path": "data\\page_images\\catalog_B_p15.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p16_c30",
+    "doc": "catalog_B",
+    "page": 16,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 16\nWareDoc\nCatalog B - Product Details\nSavon soin sensation d'hydratation\nIngredients: Sodium palmate, sodium palm kernelate, aqua, glycerin, parfum,zea mays starch, lactic acid, ceteareth-25,\ntocopheryl acetate,panthenol, sodium chloride, palm acid, palm kernel acid, tetrasodiumglutamate diacetate, benzyl\nalcohol, ci 77891\nSKU\nSKU1015\nBrand\nCosmia\nCategory\nSoap\nPack Size\n48 units/box\nQuantity\n90 g\nBox Price\nRs 295\nSupplier\nDistributor C\nTFM\n71.0",
+    "image_path": "data\\page_images\\catalog_B_p16.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p16_c31",
+    "doc": "catalog_B",
+    "page": 16,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1015 | Brand | Cosmia |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 48 units/box |\n| Quantity | 90 g | Box Price | Rs 295 |\n| Supplier | Distributor C | TFM | 71.0 |",
+    "image_path": "data\\page_images\\catalog_B_p16.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p17_c32",
+    "doc": "catalog_B",
+    "page": 17,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 17\nWareDoc\nCatalog B - Product Details\nSaifan Laurel (Ghar) Oil and Olive Oil Soap\nIngredients: Olive oil, coconut oil, palm oil, laurel oil, water, NaOH\nSKU\nSKU1016\nBrand\nKoura\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n500 g\nBox Price\nRs 1,060\nSupplier\nDistributor A\nTFM\n73.0",
+    "image_path": "data\\page_images\\catalog_B_p17.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p17_c33",
+    "doc": "catalog_B",
+    "page": 17,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1016 | Brand | Koura |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 500 g | Box Price | Rs 1,060 |\n| Supplier | Distributor A | TFM | 73.0 |",
+    "image_path": "data\\page_images\\catalog_B_p17.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p18_c34",
+    "doc": "catalog_B",
+    "page": 18,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 18\nWareDoc\nCatalog B - Product Details\nSavon extra-riche\nIngredients: Sodium Palmate*, Sodium Palm Kernelate*, Aqua [Water], Butyrospermum Parkii Butter [Butyrospermum\nParkii (Shea Butter)]*, Glycerin, Argania Spinosa Oil [Argania Spinosa Kernel Oil]*, Cocos Nucifera Oil [Cocos Nucifera\n(Coconut) Oil]*, Sodium Chloride, Sodium Gluconate. *Ingrédients issus de l’Agriculture Biologique\nSKU\nSKU1017\nBrand\nMelvita\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n150 g\nBox Price\nRs 390\nSupplier\nBrand B\nTFM\n71.0",
+    "image_path": "data\\page_images\\catalog_B_p18.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p18_c35",
+    "doc": "catalog_B",
+    "page": 18,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1017 | Brand | Melvita |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 150 g | Box Price | Rs 390 |\n| Supplier | Brand B | TFM | 71.0 |",
+    "image_path": "data\\page_images\\catalog_B_p18.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p19_c36",
+    "doc": "catalog_B",
+    "page": 19,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 19\nWareDoc\nCatalog B - Product Details\nBeurre Karité\nIngredients: SODIUM OLIVATE, SODIUM COCOATE,SODIUM RAPESEEDATE, AQUA, GLYCERIN, SODIUM\nSHEABUTTERATE.\nSKU\nSKU1018\nBrand\nLes Savons d'Orély\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n100 g\nBox Price\nRs 295\nSupplier\nDistributor A\nTFM\n78.0",
+    "image_path": "data\\page_images\\catalog_B_p19.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p19_c37",
+    "doc": "catalog_B",
+    "page": 19,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1018 | Brand | Les Savons d'Orély |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 100 g | Box Price | Rs 295 |\n| Supplier | Distributor A | TFM | 78.0 |",
+    "image_path": "data\\page_images\\catalog_B_p19.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p20_c38",
+    "doc": "catalog_B",
+    "page": 20,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 20\nWareDoc\nCatalog B - Product Details\nOsama Milde Seife Sensitiv\nIngredients: \nINGREDIENTS: \nAqua, \nSodium \nLaureth \nSulfate, \nCocamidopropyl \nBetaine, \nSodium \nChioride,\nCoco-Glucoside, Glyceryl Oleate, Chamomilla Recutita Flower Extract, Propylene Glycol, Bisabolol, Parfum, Tocopherol,\nHydrogenated Vegetable Giycenides Citrate. Sodium Lactate, Citric Acid, Sodium Benzoate, Potassium Sorhate\nSKU\nSKU1019\nBrand\nIsana\nCategory\nSoap\nPack Size\n48 units/box\nQuantity\n750 ml\nBox Price\nRs 1,290\nSupplier\nDistributor A\nTFM\n79.0",
+    "image_path": "data\\page_images\\catalog_B_p20.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p20_c39",
+    "doc": "catalog_B",
+    "page": 20,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1019 | Brand | Isana |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 48 units/box |\n| Quantity | 750 ml | Box Price | Rs 1,290 |\n| Supplier | Distributor A | TFM | 79.0 |",
+    "image_path": "data\\page_images\\catalog_B_p20.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p21_c40",
+    "doc": "catalog_B",
+    "page": 21,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 21\nWareDoc\nCatalog B - Product Details\nPersavon\nIngredients: Sodium Tallowate, Aqua, Sodium Palm Kernelate, Glycerin, Sodium Chloride, Parfum, Tetrasodium\nEtidronate\nSKU\nSKU1020\nBrand\nPersavon\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n200 g\nBox Price\nRs 680\nSupplier\nBrand B\nTFM\n77.0",
+    "image_path": "data\\page_images\\catalog_B_p21.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p21_c41",
+    "doc": "catalog_B",
+    "page": 21,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1020 | Brand | Persavon |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 200 g | Box Price | Rs 680 |\n| Supplier | Brand B | TFM | 77.0 |",
+    "image_path": "data\\page_images\\catalog_B_p21.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p22_c42",
+    "doc": "catalog_B",
+    "page": 22,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 22\nWareDoc\nCatalog B - Product Details\nSavon Mains aloe vera\nIngredients: Aqua, Sodium Laureth Sulfate, Cocamide DEA, Cocamidopropyl Betaine, Styrene/Acrylates Copolymer and\nCoco Glucoside, Glycerin, Sodium Chloride, Parfum, Citric Acid.\nSKU\nSKU1021\nBrand\nWinny\nCategory\nSoap\nPack Size\n24 units/box\nQuantity\n500 ml\nBox Price\nRs 835\nSupplier\nDistributor C\nTFM\nN/A",
+    "image_path": "data\\page_images\\catalog_B_p22.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p22_c43",
+    "doc": "catalog_B",
+    "page": 22,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1021 | Brand | Winny |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 24 units/box |\n| Quantity | 500 ml | Box Price | Rs 835 |\n| Supplier | Distributor C | TFM | N/A |",
+    "image_path": "data\\page_images\\catalog_B_p22.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p23_c44",
+    "doc": "catalog_B",
+    "page": 23,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 23\nWareDoc\nCatalog B - Product Details\nTaous\nIngredients: sodium tallowate sodium palmate sodium palmate aqua sodium palm kernelate glycerin sodium chloride\nparfum limonene hexyl cinnamal\nSKU\nSKU1022\nBrand\nTaous\nCategory\nSoap\nPack Size\n12 units/box\nQuantity\n125 g\nBox Price\nRs 275\nSupplier\nDistributor C\nTFM\n80.0",
+    "image_path": "data\\page_images\\catalog_B_p23.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p23_c45",
+    "doc": "catalog_B",
+    "page": 23,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1022 | Brand | Taous |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 12 units/box |\n| Quantity | 125 g | Box Price | Rs 275 |\n| Supplier | Distributor C | TFM | 80.0 |",
+    "image_path": "data\\page_images\\catalog_B_p23.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p24_c46",
+    "doc": "catalog_B",
+    "page": 24,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 24\nWareDoc\nCatalog B - Product Details\nCicaplast baume b5+\nIngredients: La Roche-Posay, E108, crème, E102, E170, Crème.\nSKU\nSKU1023\nBrand\nLa Roche-Posay\nCategory\nSoap\nPack Size\n6 units/box\nQuantity\n40 ml\nBox Price\nRs 80\nSupplier\nDistributor C\nTFM\n70.0",
+    "image_path": "data\\page_images\\catalog_B_p24.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p24_c47",
+    "doc": "catalog_B",
+    "page": 24,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1023 | Brand | La Roche-Posay |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 6 units/box |\n| Quantity | 40 ml | Box Price | Rs 80 |\n| Supplier | Distributor C | TFM | 70.0 |",
+    "image_path": "data\\page_images\\catalog_B_p24.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p25_c48",
+    "doc": "catalog_B",
+    "page": 25,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 25\nWareDoc\nCatalog B - Product Details\nSavon liquide antibactérien surgras\nIngredients: Aqua (Water), Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Propylene Glycol, PEG-150\nDistearate, Coco-Glucoside, Calendula Officinalis Flower Extract, Aloe Barbadensis Leaf Juice, C12-13 Alkyl Lactate,\nGlyceryl Oleate, Panthenol, Polysorbate 20, Linoleic Acid, Tetrasodium EDTA, Benzophenone-4, Linolenic Acid,\nPotassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, Sodium Chloride, ...\nSKU\nSKU1024\nBrand\nSanytol\nCategory\nSoap\nPack Size\n12 units/box\nQuantity\n250 ml\nBox Price\nRs 400\nSupplier\nBrand B\nTFM\nN/A",
+    "image_path": "data\\page_images\\catalog_B_p25.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p25_c49",
+    "doc": "catalog_B",
+    "page": 25,
+    "section": "Catalog B - Product Details",
+    "type": "table",
+    "text": "| SKU | SKU1024 | Brand | Sanytol |\n| --- | --- | --- | --- |\n| Category | Soap | Pack Size | 12 units/box |\n| Quantity | 250 ml | Box Price | Rs 400 |\n| Supplier | Brand B | TFM | N/A |",
+    "image_path": "data\\page_images\\catalog_B_p25.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_B_p26_c50",
+    "doc": "catalog_B",
+    "page": 26,
+    "section": "Catalog B - Product Details",
+    "type": "chart",
+    "text": "This business chart provides a comparison of the Total Fatty Matter (TFM) percentage across various bar soaps. Below is the detailed information requested:\n\n*   **Chart Type:** Horizontal Bar Chart.\n*   **Title:** TFM Comparison Across Bar Soaps.\n*   **X-axis:** TFM (Total Fatty Matter %), ranging from 60 to 85.\n*   **Y-axis:** The names of various bar soap products.\n*   **Series Names and Values:** The chart contains a single series of data representing the TFM percentage for each product as follows:\n    *   **Taous:** 80\n    *   **Pompelmo:** 80\n    *   **Osama Milde Seife Se:** 79\n    *   **Beurre Karité:** 78\n    *   **Savon brut:** 78\n    *   **Persavon:** 77\n    *   **SAVON D'ALEP 40% HUI:** 75\n    *   **Baby:** 73\n    *   **Saifan Laurel (Ghar):** 73\n    *   **Savon de Marseille p:** 72\n    *   **Isana cremeseife oli:** 71\n    *   **Savon extra-riche:** 71\n    *   **Savon soin sensation:** 71\n    *   **Cicaplast baume b5+:** 70\n    *   **Monsavon BIO Déodora:** 80\n    *   **Cremeseife Sensitive:** 69\n    *   **Savon crème surgras:** 69\n    *   **Savon à barbe sans p:** 69\n    *   **Hamamélis:** 69\n    *   **savon de Marseille à:** 69\n\n*   **Overall Trend:** The chart shows a declining trend in TFM values as one moves down the list of products. The majority of the soaps listed fall below the \"Grade 1\" threshold of 76% TFM, indicated by the green dashed line, with only six products meeting or exceeding this quality standard. Interestingly, one product (Monsavon BIO Déodora) displays a high TFM value of 80 despite being positioned further down the list.",
+    "image_path": "data\\page_images\\catalog_B_p26.png",
+    "source": "vlm_chart"
+  },
+  {
+    "chunk_id": "catalog_B_p26_c51",
+    "doc": "catalog_B",
+    "page": 26,
+    "section": "Catalog B - Product Details",
+    "type": "text",
+    "text": "Catalog B - Product Details\nSoap & Personal Care Catalog\nPage 26\nWareDoc\nCatalog B - Product Details\nTFM Comparison Across Bar Soaps\nThe chart above compares the Total Fatty Matter (TFM) percentage across all bar soaps in this catalog. TFM indicates\nthe quality of soap; Grade 1 soaps have TFM >= 76%. Soaps with higher TFM contain more fatty matter and are generally\nconsidered better quality.",
+    "image_path": "data\\page_images\\catalog_B_p26.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "catalog_C_p1_c0",
+    "doc": "catalog_C",
+    "page": 1,
+    "section": "catalog_C p1",
+    "type": "scan",
+    "text": "| SKU | Product | Brand | Pack | Price (Rs) |\n| :--- | :--- | :--- | :--- | :--- |\n| SKU1040 | Tresemmé shampoo and conditioner | Tresemmé | 24 | 1,785 |\n| SKU1041 | Minerals Shampo Coconut, 250 ml | Orkla Home & Perso | 6 | 820 |\n| SKU1042 | Detox Purificante | Henkel | 24 | 3,245 |\n| SKU1043 | Shampooing réparateur | Pouce | 48 | 990 |\n| SKU1044 | Guhl Fris & Luchtig Anti-Vet Shampoo | Guhl | 24 | 780 |\n| SKU1045 | Ultra Doux Shampooing Nourrissant Hui... | l-oreal | 24 | 645 |\n| SKU1046 | Shampooing anti pelliculaire aux tea ... | Pétrole Hahn | 6 | 990 |\n| SKU1047 | Repair Miracle Shampoo | Aussie | 12 | 685 |\n| SKU1048 | Pánský šampon s pivem, kofeinem a byl... | Manufaktura | 24 | 855 |\n| SKU1049 | Shampooing à la quinine et aux vitami... | Klorane | 24 | 1,535 |\n| SKU1050 | Gel douche extra doux Mandarine & cit... | Le Petit Marseille | 24 | 760 |\n| SKU1051 | Fa Men Black Moon Piment Rouge | Henkel | 6 | 635 |\n| SKU1052 | Marble 3-In-1 Hair, Face, and Body Wash | Bath & Body Works | 12 | 910 |\n| SKU1053 | Mangue coriandre - bain douche énergie | Yves Rocher | 48 | 145 |\n| SKU1054 | Monsavon Gel Douche Passion Bien Frui... | Au Lait | 24 | 1,325 |\n| SKU1055 | Gel douche parfum Zeste de citron Car... | By U | 12 | 650 |\n| SKU1056 | Sensitive 3in1 Body Wash | Nivea Men | 24 | 1,265 |\n| SKU1057 | Shower gel tropical | Cosmia | 24 | 2,800 |\n| SKU1058 | Gel douche exaltant à l'extrait de mú... | Nature Moi | 12 | 970 |\n| SKU1059 | Lait de douche hydratant cœur de vanille | Manava | 24 | 845 |\n| SKU1060 | Pflegedusche creme soft | Nivea | 24 | 820 |\n| SKU1061 | Shower gel with essential oils- refre... | Apivita | 24 | 685 |",
+    "image_path": "data\\page_images\\catalog_C_p1.png",
+    "source": "vlm_scan"
+  },
+  {
+    "chunk_id": "catalog_C_p2_c1",
+    "doc": "catalog_C",
+    "page": 2,
+    "section": "catalog_C p2",
+    "type": "scan",
+    "text": "| SKU | Product | Brand | Pack | Price (Rs) |\n| :--- | :--- | :--- | :--- | :--- |\n| SKU1005 | Monsavon BIO Déodorant Femme Bille La... | BIO | 24 | 155 |\n| SKU1013 | Savon crème surgras | henkel | 12 | 185 |\n| SKU1015 | Savon soin sensation d'hydratation | Cosmia | 48 | 285 |\n| SKU1017 | Savon extra-riche | Melvita | 24 | 410 |\n| SKU1020 | Persavon | Persavon | 24 | 705 |\n| SKU1023 | Cicaplast baume b5+ | La Roche-Posay | 6 | 75 |\n| SKU1036 | Shampooing antipelliculaire Instant R... | Head & Shoulders | 24 | 660 |\n| SKU1039 | Timotei Bio Shampooing Femme Éclat Ch... | Unilever | 12 | 665 |",
+    "image_path": "data\\page_images\\catalog_C_p2.png",
+    "source": "vlm_scan"
+  },
+  {
+    "chunk_id": "policy_p1_c0",
+    "doc": "policy",
+    "page": 1,
+    "section": "Business Policy Document",
+    "type": "text",
+    "text": "Business Policy Document\nWareDoc Wholesale\nPage 1\nWareDoc\nBusiness Policy Document\nBusiness Policy & Terms\nVolume Discount Tiers\nThe following volume-based discounts apply to all bulk orders. Discounts are calculated on the base box price\nand applied at checkout:\nMin. Boxes\nDiscount %\n10\n2%\n50\n5%\n100\n8%\nGST rate: 18% (placeholder - to be verified). GST is applied on the discounted price.\nReturn Rules\n• Damaged goods may be returned within 7 days of delivery with photographic proof.\n• Wrong items may be returned within 14 days for full credit.\n• Non-saleable returned goods are subject to a 5% restocking fee.\n• Clearance items are non-returnable.\nDelivery Terms\n• Orders are dispatched within 48 hours of confirmation.\n• Standard delivery: 3-5 business days within state, 5-7 days interstate.\n• Express delivery available at additional cost (Rs 500 per box).\n• Free delivery on orders above 50 boxes.\n• Delivery charges for orders below 10 boxes: Rs 250 flat.\nApproved Customers & Credit Limits\nCustomer\nCredit Limit (INR)\nSharma General Store\n500,000\nMetro Retail Chain\n2,000,000\nKiran Super Mart\n800,000",
+    "image_path": "data\\page_images\\policy_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "policy_p1_c1",
+    "doc": "policy",
+    "page": 1,
+    "section": "Business Policy Document",
+    "type": "table",
+    "text": "| Min. Boxes | Discount % |\n| --- | --- |\n| 10 | 2% |\n| 50 | 5% |\n| 100 | 8% |",
+    "image_path": "data\\page_images\\policy_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "policy_p1_c2",
+    "doc": "policy",
+    "page": 1,
+    "section": "Business Policy Document",
+    "type": "table",
+    "text": "| Customer | Credit Limit (INR) |\n| --- | --- |\n| Sharma General Store | 500,000 |\n| Metro Retail Chain | 2,000,000 |\n| Kiran Super Mart | 800,000 |",
+    "image_path": "data\\page_images\\policy_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "quarterly_report_p1_c0",
+    "doc": "quarterly_report",
+    "page": 1,
+    "section": "Quarterly Performance Report",
+    "type": "text",
+    "text": "Quarterly Performance Report\nFY 2024-25\nPage 1\nWareDoc\nQuarterly Performance Report\nExecutive Summary & Analysis\nThis report presents the quarterly sales performance for the fiscal year 2024-25 across five product\ncategories: Soap, Hand Wash, Body Wash, Shampoo, and Face Wash. The year was marked by significant\nvolatility driven by external supply-chain factors and seasonal demand patterns. Reason 1 - Festive Season Demand (Q3-Q4): The festive season spanning Diwali in Q3 and the year-end\ncelebrations in Q4 drove a sharp increase in demand across all categories. Soap sales rose from 12,000\nboxes in Q1 to 18,500 boxes in Q4, a 54% increase. Body Wash similarly jumped from 10,000 to 15,200\nboxes. The festive period is traditionally the strongest sales window for personal care products in the Indian\nwholesale market, as retailers stock up in anticipation of higher consumer spending on grooming and gifting. Reason 2 - Supplier Delay in Q2 (Distributor B): Q2 saw a noticeable dip across all categories. Distributor\nB experienced logistics and customs delays that reduced supply by approximately 20-25% for two key product\nlines.",
+    "image_path": "data\\page_images\\quarterly_report_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "quarterly_report_p1_c1",
+    "doc": "quarterly_report",
+    "page": 1,
+    "section": "Quarterly Performance Report",
+    "type": "text",
+    "text": "Soap fell from 12,000 boxes in Q1 to 9,500 in Q2, and Shampoo dropped from 11,000 to 9,000. The\nsupply gap was resolved by Q3 as alternative sourcing arrangements were put in place. Reason 3 - Price Increase in Q4 (8-12% on Bar Soaps): A price revision was implemented in Q4, increasing\nbar soap prices by 8-12% due to rising raw material costs. Despite the price increase, volume continued to\ngrow due to festive demand, resulting in higher revenue. The price change contributed to an estimated 15%\nrevenue uplift on soap alone. Face Wash, which had a smaller price adjustment of 5%, saw the most modest\nQ4 increase, going from 6,000 boxes in Q1 to 8,500 in Q4.",
+    "image_path": "data\\page_images\\quarterly_report_p1.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "quarterly_report_p2_c2",
+    "doc": "quarterly_report",
+    "page": 2,
+    "section": "Quarterly Performance Report",
+    "type": "text",
+    "text": "Quarterly Performance Report\nFY 2024-25\nPage 2\nWareDoc\nQuarterly Performance Report\nQuarterly Sales by Category (Boxes)\nCategory\nQ1\nQ2\nQ3\nQ4\nTotal\nSoap\n12,000\n9,500\n14,000\n18,500\n54,000\nHand Wash\n8,000\n7,200\n9,500\n11,500\n36,200\nBody Wash\n10,000\n8,500\n12,000\n15,200\n45,700\nShampoo\n11,000\n9,000\n13,500\n16,000\n49,500\nFace Wash\n6,000\n5,500\n7,000\n8,500\n27,000\nTotal\n47,000\n39,700\n56,000\n69,700\n212,400\nTable 1: Quarterly sales volumes (in boxes) for each product category. The total column shows annual volume per\ncategory.",
+    "image_path": "data\\page_images\\quarterly_report_p2.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "quarterly_report_p2_c3",
+    "doc": "quarterly_report",
+    "page": 2,
+    "section": "Quarterly Performance Report",
+    "type": "table",
+    "text": "| Category | Q1 | Q2 | Q3 | Q4 | Total |\n| --- | --- | --- | --- | --- | --- |\n| Soap | 12,000 | 9,500 | 14,000 | 18,500 | 54,000 |\n| Hand Wash | 8,000 | 7,200 | 9,500 | 11,500 | 36,200 |\n| Body Wash | 10,000 | 8,500 | 12,000 | 15,200 | 45,700 |\n| Shampoo | 11,000 | 9,000 | 13,500 | 16,000 | 49,500 |\n| Face Wash | 6,000 | 5,500 | 7,000 | 8,500 | 27,000 |\n| Total | 47,000 | 39,700 | 56,000 | 69,700 | 212,400 |",
+    "image_path": "data\\page_images\\quarterly_report_p2.png",
+    "source": "native"
+  },
+  {
+    "chunk_id": "quarterly_report_p3_c4",
+    "doc": "quarterly_report",
+    "page": 3,
+    "section": "Quarterly Performance Report",
+    "type": "chart",
+    "text": "This is a description of the business chart provided:\n\n**Chart Type:**\nThis is a multi-series line chart.\n\n**Title:**\nQuarterly Sales by Category (FY 2024-25)\n\n**X-axis:**\nThe X-axis represents time by quarter, with data points for Q1, Q2, Q3, and Q4.\n\n**Y-axis:**\nThe Y-axis represents the volume of \"Boxes Sold,\" measured in increments of 2,500, ranging from 0 to 20,000.\n\n**Series Names and Data Points:**\nEach series follows a trend of a dip in Q2 followed by recovery in Q3 and Q4. The specific values are:\n\n*   **Soap (Dark Blue):** Q1: 12,000; Q2: 9,500; Q3: 13,500; Q4: 18,500.\n*   **Hand Wash (Gold):** Q1: 8,000; Q2: 7,200; Q3: 9,500; Q4: 11,500.\n*   **Body Wash (Green):** Q1: 10,000; Q2: 8,500; Q3: 12,000; Q4: 16,000.\n*   **Shampoo (Purple):** Q1: 11,000; Q2: 9,000; Q3: 13,000; Q4: 15,200.\n*   **Face Wash (Orange):** Q1: 6,000; Q2: 5,500; Q3: 7,000; Q4: 8,500.\n\n*(Note: While the values are explicitly labeled on the chart, they align with the approximate visual positions on the Y-axis.)*\n\n**Overall Trend:**\nAll five categories exhibit a consistent pattern: there is a slight decrease in sales moving from Q1 to Q2 (attributed in the report to a distributor supply delay), followed by a significant and steady upward recovery trend through Q3 and Q4, driven by seasonal demand and price adjustments. Soap is the highest-performing category by volume, while Face Wash maintains the lowest volume throughout the period.",
+    "image_path": "data\\page_images\\quarterly_report_p3.png",
+    "source": "vlm_chart"
+  },
+  {
+    "chunk_id": "quarterly_report_p3_c5",
+    "doc": "quarterly_report",
+    "page": 3,
+    "section": "Quarterly Performance Report",
+    "type": "text",
+    "text": "Quarterly Performance Report\nFY 2024-25\nPage 3\nWareDoc\nQuarterly Performance Report\nQuarterly Sales Trend\nFigure 1: Line chart of quarterly sales by category. The data shown matches Table 1 exactly. All five categories follow the\nsame pattern: a Q2 dip due to the Distributor B supply delay, followed by strong recovery in Q3 and Q4 driven by festive\nseason demand and the Q4 price adjustment.",
+    "image_path": "data\\page_images\\quarterly_report_p3.png",
+    "source": "native"
+  }
+]

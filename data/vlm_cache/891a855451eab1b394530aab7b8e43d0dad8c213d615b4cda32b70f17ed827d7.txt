@@ -1,0 +1,27 @@
+This is a description of the business chart provided:
+
+**Chart Type:**
+This is a multi-series line chart.
+
+**Title:**
+Quarterly Sales by Category (FY 2024-25)
+
+**X-axis:**
+The X-axis represents time by quarter, with data points for Q1, Q2, Q3, and Q4.
+
+**Y-axis:**
+The Y-axis represents the volume of "Boxes Sold," measured in increments of 2,500, ranging from 0 to 20,000.
+
+**Series Names and Data Points:**
+Each series follows a trend of a dip in Q2 followed by recovery in Q3 and Q4. The specific values are:
+
+*   **Soap (Dark Blue):** Q1: 12,000; Q2: 9,500; Q3: 13,500; Q4: 18,500.
+*   **Hand Wash (Gold):** Q1: 8,000; Q2: 7,200; Q3: 9,500; Q4: 11,500.
+*   **Body Wash (Green):** Q1: 10,000; Q2: 8,500; Q3: 12,000; Q4: 16,000.
+*   **Shampoo (Purple):** Q1: 11,000; Q2: 9,000; Q3: 13,000; Q4: 15,200.
+*   **Face Wash (Orange):** Q1: 6,000; Q2: 5,500; Q3: 7,000; Q4: 8,500.
+
+*(Note: While the values are explicitly labeled on the chart, they align with the approximate visual positions on the Y-axis.)*
+
+**Overall Trend:**
+All five categories exhibit a consistent pattern: there is a slight decrease in sales moving from Q1 to Q2 (attributed in the report to a distributor supply delay), followed by a significant and steady upward recovery trend through Q3 and Q4, driven by seasonal demand and price adjustments. Soap is the highest-performing category by volume, while Face Wash maintains the lowest volume throughout the period.

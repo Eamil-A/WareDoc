@@ -1,0 +1,3 @@
+[
+  {"sku": "SKU1001", "product": "Pompelmo", "qty": 20}
+]

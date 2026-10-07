@@ -1,0 +1,41 @@
+Here is a detailed description of the chart:
+
+### Chart Overview
+* **Chart Type**: Horizontal bar chart
+* **Title**: TFM Comparison Across Bar Soaps
+* **X-axis**: TFM (Total Fatty Matter %) ranging from 60% to 85% in increments of 5%
+* **Y-axis**: 20 different brand names of bar soaps
+* **Special Markers**: A vertical dashed green line is drawn at 76% TFM, labeled "**Grade 1 (>=76%)**". This divides the products into Grade 1 (on the right) and lower grades (on the left).
+
+---
+
+### Data Series and Values
+The chart displays a single series showing the TFM percentage for each soap. Values are explicitly labeled on the bars:
+
+1. **Taous**: 80% (brown bar)
+2. **Pompelmo**: 80% (highlighted with a yellow/gold bar)
+3. **Osama Milde Seife Se**: 79% (brown bar)
+4. **Beurre Karité**: 78% (brown bar)
+5. **Savon brut**: 78% (brown bar)
+6. **Persavon**: 77% (brown bar)
+7. **SAVON D'ALEP 40% HUI**: 75% (brown bar)
+8. **Baby**: 73% (brown bar)
+9. **Saifan Laurel (Ghar)**: 73% (brown bar)
+10. **Savon de Marseille p**: 72% (brown bar)
+11. **Isana cremeseife oli**: 71% (brown bar)
+12. **Savon extra-riche**: 71% (brown bar)
+13. **Savon soin sensation**: 71% (brown bar)
+14. **Cicaplast baume b5+**: 70% (brown bar)
+15. **Monsavon BIO Déodora**: 80% (brown bar; contains an internal label of "70" and end label of "80")
+16. **Cremeseife Sensitive**: 69% (brown bar)
+17. **Savon crème surgras**: 69% (brown bar)
+18. **Savon à barbe sans p**: 69% (brown bar)
+19. **Hamamélis**: 69% (brown bar)
+20. **savon de Marseille à**: 69% (brown bar)
+
+---
+
+### Overall Trend
+* **Sorting**: The bar soaps are generally arranged in descending order of TFM percentage from top to bottom (ranging from 80% down to 69%). 
+* **Outlier**: **Monsavon BIO Déodora** is an exception to the descending order; it has an 80% TFM value but is placed near the bottom among the 69%–70% TFM products.
+* **Grade Classification**: Out of the 20 soaps listed, 7 soaps meet or exceed the "Grade 1" threshold of 76% TFM (Taous, Pompelmo, Osama Milde Seife Se, Beurre Karité, Savon brut, Persavon, and Monsavon BIO Déodora). The remaining 13 soaps fall below this threshold.

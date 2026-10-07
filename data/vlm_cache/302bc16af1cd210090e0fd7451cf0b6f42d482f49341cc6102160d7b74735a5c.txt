@@ -1,0 +1,29 @@
+This business chart provides a comparison of the Total Fatty Matter (TFM) percentage across various bar soaps. Below is the detailed information requested:
+
+*   **Chart Type:** Horizontal Bar Chart.
+*   **Title:** TFM Comparison Across Bar Soaps.
+*   **X-axis:** TFM (Total Fatty Matter %), ranging from 60 to 85.
+*   **Y-axis:** The names of various bar soap products.
+*   **Series Names and Values:** The chart contains a single series of data representing the TFM percentage for each product as follows:
+    *   **Taous:** 80
+    *   **Pompelmo:** 80
+    *   **Osama Milde Seife Se:** 79
+    *   **Beurre Karité:** 78
+    *   **Savon brut:** 78
+    *   **Persavon:** 77
+    *   **SAVON D'ALEP 40% HUI:** 75
+    *   **Baby:** 73
+    *   **Saifan Laurel (Ghar):** 73
+    *   **Savon de Marseille p:** 72
+    *   **Isana cremeseife oli:** 71
+    *   **Savon extra-riche:** 71
+    *   **Savon soin sensation:** 71
+    *   **Cicaplast baume b5+:** 70
+    *   **Monsavon BIO Déodora:** 80
+    *   **Cremeseife Sensitive:** 69
+    *   **Savon crème surgras:** 69
+    *   **Savon à barbe sans p:** 69
+    *   **Hamamélis:** 69
+    *   **savon de Marseille à:** 69
+
+*   **Overall Trend:** The chart shows a declining trend in TFM values as one moves down the list of products. The majority of the soaps listed fall below the "Grade 1" threshold of 76% TFM, indicated by the green dashed line, with only six products meeting or exceeding this quality standard. Interestingly, one product (Monsavon BIO Déodora) displays a high TFM value of 80 despite being positioned further down the list.

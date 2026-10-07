@@ -1,0 +1,24 @@
+| SKU | Product | Brand | Pack | Price (Rs) |
+| :--- | :--- | :--- | :--- | :--- |
+| SKU1040 | Tresemmé shampoo and conditioner | Tresemmé | 24 | 1,785 |
+| SKU1041 | Minerals Shampo Coconut, 250 ml | Orkla Home & Perso | 6 | 820 |
+| SKU1042 | Detox Purificante | Henkel | 24 | 3,245 |
+| SKU1043 | Shampooing réparateur | Pouce | 48 | 990 |
+| SKU1044 | Guhl Fris & Luchtig Anti-Vet Shampoo | Guhl | 24 | 780 |
+| SKU1045 | Ultra Doux Shampooing Nourrissant Hui... | l-oreal | 24 | 645 |
+| SKU1046 | Shampooing anti pelliculaire aux tea ... | Pétrole Hahn | 6 | 990 |
+| SKU1047 | Repair Miracle Shampoo | Aussie | 12 | 685 |
+| SKU1048 | Pánský šampon s pivem, kofeinem a byl... | Manufaktura | 24 | 855 |
+| SKU1049 | Shampooing à la quinine et aux vitami... | Klorane | 24 | 1,535 |
+| SKU1050 | Gel douche extra doux Mandarine & cit... | Le Petit Marseille | 24 | 760 |
+| SKU1051 | Fa Men Black Moon Piment Rouge | Henkel | 6 | 635 |
+| SKU1052 | Marble 3-In-1 Hair, Face, and Body Wash | Bath & Body Works | 12 | 910 |
+| SKU1053 | Mangue coriandre - bain douche énergie | Yves Rocher | 48 | 145 |
+| SKU1054 | Monsavon Gel Douche Passion Bien Frui... | Au Lait | 24 | 1,325 |
+| SKU1055 | Gel douche parfum Zeste de citron Car... | By U | 12 | 650 |
+| SKU1056 | Sensitive 3in1 Body Wash | Nivea Men | 24 | 1,265 |
+| SKU1057 | Shower gel tropical | Cosmia | 24 | 2,800 |
+| SKU1058 | Gel douche exaltant à l'extrait de mú... | Nature Moi | 12 | 970 |
+| SKU1059 | Lait de douche hydratant cœur de vanille | Manava | 24 | 845 |
+| SKU1060 | Pflegedusche creme soft | Nivea | 24 | 820 |
+| SKU1061 | Shower gel with essential oils- refre... | Apivita | 24 | 685 |

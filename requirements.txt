@@ -1,0 +1,17 @@
+# WareDoc Python dependencies
+pandas
+numpy
+matplotlib
+pillow
+pyyaml
+reportlab
+fpdf2
+python-dotenv
+google-genai
+httpx
+PyMuPDF
+pdfplumber
+rank-bm25
+sentence-transformers
+rapidfuzz
+streamlit
